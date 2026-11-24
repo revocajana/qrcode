@@ -2,7 +2,8 @@
 # QR Code Generator
 
 A simple Python application that generates QR codes from text or URLs and allows users to add a custom logo at the centre of the QR code.
-![Image Description](image.png)
+
+![Image Description](qrcode.png)
 ## Features
 
 - Generate QR codes from text or URLs.
